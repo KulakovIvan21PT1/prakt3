@@ -51,5 +51,3 @@ else {
 close(s);
 return 0;
 }
-Нижний колонтитул
-© 2022 GitHub, Inc.
